@@ -1,9 +1,5 @@
 # Primeiro repositorio
 
+Esse é um simples jogo de poing feito no Scrath então esou diponibilizando para copiar os codigos e modificar você mesmo 👇
 
-Codigo de html para copiar: 👇
-'''''
-<html>
-  <h1> Primeiro repositorio </h1>
- </html>
-'''''
+  https://scratch.mit.edu/projects/717231090/
